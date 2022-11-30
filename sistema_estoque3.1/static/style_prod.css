@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+form{
+
+    display:flex;
+    justify-content: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+
+form input{
+    width: 250px;
+    height: 40px;
+
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+form{
+
+    display:flex;
+    justify-content: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+
+form input{
+    width: 250px;
+    height: 40px;
+
+}
+
+
+td, th {
+    padding: .7em;
+    margin: 0;
+    /*border: 1px solid #ccc;*/
+    border-bottom: 1px solid rgb(199, 196, 196);
+    text-align: center;
+  }
+  
+ 
+  td{
+    font-weight:bold;
+    
+  }
+  
+  table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+  tr{
+    border-bottom: 1px solid rgb(158, 94, 94);
+  }
+
+  td, img{
+    width: 50%;
+
+
+
+
+
+/* relatorio */
+
+  }
+
+.relh1{
+    text-align: center;
+
+}
+

@@ -1,0 +1,18 @@
+header{
+    background-color: #ec8700;;
+    padding: 10px;
+}
+
+main{
+    background-color: #e6811d;
+    padding: 2rem;
+    height: auto;
+    width: 400px;
+    position:fixed;
+    text-align: center;
+    box-shadow: 0px 0px 15px 0px rgb(128, 126, 126);
+    border-radius: 100px;  
+     top: 50%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+}
